@@ -1,3 +1,4 @@
+
 blink_symbol_level=0
 custom_toolchain="//build/toolchain/linux/unbundle:default"
 enable_iterator_debugging=false
@@ -15,3 +16,4 @@ use_kerberos=false
 use_sysroot=false
 use_system_libdrm=false
 use_system_minigbm=false
+use_vaapi=true
