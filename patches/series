@@ -25,3 +25,4 @@ ungoogled-chromium/remove-fcomplete-member-pointers-cflag.patch
 ungoogled-chromium/fix-node-path.patch
 ungoogled-chromium/only-fall-back-to-the-i965-driver-if-we-re-on-iHD.patch
 ungoogled-chromium/wayland-egl.patch
+ungoogled-chromium/gtk_input.patch

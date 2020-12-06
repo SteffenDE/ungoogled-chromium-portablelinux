@@ -1,8 +1,9 @@
-
 blink_symbol_level=0
 custom_toolchain="//build/toolchain/linux/unbundle:default"
 enable_iterator_debugging=false
+enable_nacl=false
 enable_swiftshader=false
+enable_print_preview=false
 fatal_linker_warnings=false
 ffmpeg_branding="Chrome"
 host_toolchain="//build/toolchain/linux/unbundle:default"
@@ -16,4 +17,11 @@ use_kerberos=false
 use_sysroot=false
 use_system_libdrm=false
 use_system_minigbm=false
+use_intel_minigbm=true
 use_vaapi=true
+use_gtk=false
+has_native_accessibility = false
+use_pulseaudio=true
+use_alsa=false
+use_cups=false
+
