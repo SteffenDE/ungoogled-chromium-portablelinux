@@ -1,5 +1,4 @@
 inox-patchset/chromium-skia-harmony.patch
-inox-patchset/fix-cfi-failures-with-unbundled-libxml.patch
 debian_buster/arm/crashpad.patch
 debian_buster/arm/gcc_skcms_ice.patch
 debian_buster/arm/skia-aarch64-buildfix.patch
@@ -21,7 +20,6 @@ ubuntu/no-new-ninja-flag.patch
 ubuntu/suppress-newer-clang-warning-flags.patch
 opensuse/system-libdrm.patch
 ungoogled-chromium/linux/manpage.patch
-ungoogled-chromium/remove-fcomplete-member-pointers-cflag.patch
 ungoogled-chromium/fix-node-path.patch
 ungoogled-chromium/only-fall-back-to-the-i965-driver-if-we-re-on-iHD.patch
 ungoogled-chromium/wayland-egl.patch
